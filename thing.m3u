@@ -17,3 +17,121 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+
+############## Video On Demand - Series ##############
+
+# Mermicorno: Starfall
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e3d81c02e445ab7a932a6c5d1afd10:4467c5e507eb6d44362e20423bc6409d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E01
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/645de7b1-8b54-542b-a014-3854619dd5a1/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=84e846d29bd2b6f5d9896a53afe1e810:ded30a4ea170a10a9c5dcd9f5a5a1c4c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E02
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/35efc7c4-96f5-5255-976d-0aa6500a4b86/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2125cf492970d7cfb020dcf65b6b1010:d75663fb682f1331c6642cff12f3d625
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E03
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/c9a9b75e-cd96-5b9f-ad28-c42da9ce3630/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1040be3b4f6394f2a91cd84e09d2510:b3d911bcebd4bbccefe38c0148676a37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E04
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/f1675f89-2809-5072-a02e-75196c9f8b60/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffffe0636d41173e5b0503bf3c7aa210:a712e192cf01fc3d1abbdc651d976d8c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E05
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/a567910d-447f-5030-9f4a-957fe2cdbd59/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1aac4bc93eb9a1a99469560d32f81410:a4f04a7151082eacf7107cc1a288ad1a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E06
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/42cd929c-7cfc-5477-9503-395fba0c8ea4/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e5bcc012297d919ae1b888b9ba2110:5455e9484d72e48814e85b159bae6a9c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E07
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/21fd06fd-f111-53d6-8e46-bf4a176b2440/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d7c4537ed0bfd6419885cffaad44110:3701a623ee6955c3bb328dfaa4cbd54e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E08
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/151b94c8-2da1-5518-9bae-0053b1b826d9/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=739210e31f8b4e26c9d4535177b31a10:15e1854e997c7fdf1e6d99a3a39af441
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E09
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/18e8c13c-205c-5383-a796-0df7c922d7cd/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53259f59adb80828c102ead507a7ad10:26ec6260d1ab221115d30412b4a435da
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E10
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/a1800826-6ff1-5db0-a6b8-606e71a59016/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff376cc9b794c654de6dd3de7dfad910:ae6465914d2be2bf2593db2eb247a920
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E11
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/0c949324-866c-54df-87bb-dc7b5eb89e48/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b56fc0a99233de3474bb01f04f239c10:78e0955d18dcca9afd45f85abe96fd39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E12
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/2e41dbf2-22b2-542c-9f6b-67d43549455f/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c99eb65d1c1bf6c2f16a933a27125410:697656990e643f4645b3d3014df18f3b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="series" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYyNzA3NDQtZGY5Ni00OGEyLTg2YTItNWZhOTc4ZDhlNGJiXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",Mermicorno: Starfall S01 E13
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/641be32b-a73c-5c8f-929e-4ba9cc1436d2/default_primary.mpd
+
+############## Video On Demand - Movies ##############
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=86ccb3e9c93ef145167f18ce7dd4db10:62db8d47f5a6ce6b46a9b07175f519b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjg4YWY1ZjYtNDExZC00MmZhLThhZTQtNWUyYjZkZDgyYmU4XkEyXkFqcGc@._V1_FMjpg_UX424_.jpg",Ultraman Trigger: Episode Z
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/c5d85333-55d6-5711-a519-d44b885333be/default_primary.mpd
